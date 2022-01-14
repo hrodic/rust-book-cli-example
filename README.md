@@ -14,7 +14,7 @@ cd rust-book-cli-example
 Run
 ```
 cargo run searchstring example-filename.txt
-...
+```
 
 ## Testing
 
