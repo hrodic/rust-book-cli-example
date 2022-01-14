@@ -1,6 +1,8 @@
 # rust-book-cli-example
 Rust book CLI sample app
 
+See: https://doc.rust-lang.org/book/ch12-00-an-io-project.html
+
 ## Quick start
 
 Download
