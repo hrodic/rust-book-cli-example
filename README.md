@@ -13,7 +13,7 @@ cd rust-book-cli-example
 
 Run
 ```
-cargo run searchstring example-filename.txt
+cargo run banish poem.txt
 ```
 
 ## Testing
